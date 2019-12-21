@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 1. 
 G.K.Zhang, Y.Luo, D.D.Zhu, Y.X.Xu, **Y.X.Sun**, J.W.Lu. Spatial Pyramid Dilated Network for Pulmonary
