@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[CV](http://byrantwithyou.github.io/files/cv.pdf)
+[CV](https://byrantwithyou.github.io/files/cv.pdf)
 
