@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. **Y.X.Sun**, C.Schroeder. A Robust Adaptive Time Step Size Schedule for Material Point Method. In ACM
-Siggraph. *Siggraph'20*. *Submitted*.
+1. 
+**Y.X.Sun**, C.Schroeder. Efficient CFL restrictions of explicit MPM simulation. In ACM Siggraph. *Siggraph'20*. *Submitted*.
 1. 
 G.K.Zhang, Y.Luo, D.D.Zhu, Y.X.Xu, **Y.X.Sun**, J.W.Lu. Spatial Pyramid Dilated Network for Pulmonary
 Nodule Malignancy Classication. In Proceedings of International Conference on Pattern
