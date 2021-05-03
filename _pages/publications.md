@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 1. 
-**Y.X.Sun**, C.Schroeder. Effective time step restrictions for explicit MPM simulation. In ACM Symposium on Computer Animation. *SCA' 20*.
+**Y.X.Sun**, T.Shinar, C.Schroeder. Effective time step restrictions for explicit MPM simulation. In ACM Symposium on Computer Animation. *SCA' 20*.
 1. 
 G.K.Zhang, Y.Luo, D.D.Zhu, Y.X.Xu, **Y.X.Sun**, J.W.Lu. Spatial Pyramid Dilated Network for Pulmonary
 Nodule Malignancy Classication. In Proceedings of International Conference on Pattern
