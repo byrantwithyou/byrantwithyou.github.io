@@ -11,7 +11,6 @@ redirect_from:
 Research Interest
 ======
 1. Computer Graphics
-1. Data Science
-1. Computer Security
+1. Computer Systems
 
 
