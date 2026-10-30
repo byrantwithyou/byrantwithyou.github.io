@@ -2,7 +2,7 @@
 layout: homepage
 ---
 ## About Me
-I'm currently a Ph.D. student in computer science at Purdue University, advised by [Prof. Abulhair Saparov](https://asaparov.org/). Previously, I earned a Master of Science in Computer Science from [ETH Zurich](https://ethz.ch/en.html), Switzerland, and a Bachelor of Engineering in Software Engineering from [Tongji University](https://en.tongji.edu.cn/p/), China.  
+I'm currently a Ph.D. student in computer science at [Purdue University](https://www.purdue.edu/), advised by [Prof. Abulhair Saparov](https://asaparov.org/). Previously, I earned a Master of Science in Computer Science from [ETH Zurich](https://ethz.ch/en.html), Switzerland, and a Bachelor of Engineering in Software Engineering from [Tongji University](https://en.tongji.edu.cn/p/), China.  
 
 ## Research Interests
 
