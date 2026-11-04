@@ -12,3 +12,8 @@ google_scholar: https://scholar.google.com/citations?user=oMha4E4AAAAJ
 # github_link: https://github.com/YOUR_USERNAME
 cv_link: https://drive.google.com/file/d/11BR6Q5wP5iFAedvhqZXuZFItRyPY0Bm9/view?usp=sharing
 
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  math_engine: mathjax

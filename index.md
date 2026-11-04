@@ -16,6 +16,9 @@ My research focuses on LLM agents, particularly their evaluation, post-training,
 ## Selected Publications
 
 <!-- Replace the entries below with your real publications. No images needed. -->
+**$$\left(\mathcal{LC}\right)^2$$: *L*earning *C*onstant-size *L*atent *C*ontext for Language Model Agents**
+**Yunxin Sun**, Abulhair Saparov  
+*preprint*
 
 **[Do Language Models Follow Occam’s Razor? An Evaluation of Parsimony in Inductive and Abductive Reasoning](https://arxiv.org/abs/2509.03345){:target="_blank" rel="noopener noreferrer"}**  
 **Yunxin Sun**, Abulhair Saparov  
