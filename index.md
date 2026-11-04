@@ -17,6 +17,7 @@ My research focuses on LLM agents, particularly their evaluation, post-training,
 
 <!-- Replace the entries below with your real publications. No images needed. -->
 **$$\left(\mathcal{LC}\right)^2$$: *L*earning *C*onstant-size *L*atent *C*ontext for Language Model Agents**
+
 **Yunxin Sun**, Abulhair Saparov  
 *preprint*
 
