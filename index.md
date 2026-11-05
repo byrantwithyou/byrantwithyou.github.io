@@ -11,7 +11,12 @@ My research focuses on LLM agents, particularly their evaluation, post-training,
 
 ## Experience
  - External Research Collaborator, [Nace.ai](https://www.nace.ai/){:target="_blank" rel="noopener noreferrer"}
+ 
+ I collaborated with Nace.ai on developing a hypernetwork-based approach for test-time adaptation. I first curated a large-scale training dataset comprising 4 million counterfactual reasoning questions with long-context inputs. I then trained a hypernetwork in a distributed setting to dynamically generate a context-specific LoRA adapter for each input. Our approach outperformed several model editing and in-context learning baselines while achieving lower inference costs.
+
  - Research Internship, [TikTok US Infrastructure Lab](https://us.tiktok.com/){:target="_blank" rel="noopener noreferrer"}
+
+During my internship at TikTok, I investigated performance bottlenecks in RDMA-based distributed memory transfers within internal database systems. I collaborated closely with cross-functional team members to diagnose slow queries and identify underlying performance issues. My investigation spanned multiple system layers, including software architecture, network protocols, and hardware-level primitives. I extensively leveraged performance profiling and observability tools, such as eBPF, to analyze system behavior and pinpoint bottlenecks. I also contributed to developing and optimizing other database functionality throughout the internship.
 
 ## Selected Publications
 
